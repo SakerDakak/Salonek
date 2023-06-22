@@ -27,24 +27,11 @@ Download: https://github.com/SakerDakak/Salonek/releases/download/Salonek/Salone
 ## Screenshort
  
 ## Features:
-- Direct gold pricing based on global pricing
-- Hierarchical management and each level has specific permissions
-- Employee management
-- Product management
-- Customer management
-- Record sales of gold piece
-- Statistics
-- Advanced search based on jewelry specifications
 - Search using QR code
-- Analysis of the gold piece code from an image and display of its specifications
-- Unique identifier number for each piece using a new algorithm
-- Addition of several high-quality images for the piece
 - Support for multiple languages (Arabic - English)
-- Compatibility with devices of different sizes with customizable display
-- Addition of profit for each carat of gold
-- Addition of categories for gold pieces
-- Calculation of the total price and weight of the customer's gold
-- Changing the current owner of the gold piece
+- Product management
+- Statistics
+- 
 
 ## Dependencies
 - Flutter
