@@ -1,0 +1,68 @@
+<!DOCTYPE html><html><head>
+
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="salonek">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="admin">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="Favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="Favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="Favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="Favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="Favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="Favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="Favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="Favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="Favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="Favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="Favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="Favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="Favicon/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="Favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <title>Salonek</title>
+  <link rel="manifest" href="manifest.json">
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    var serviceWorkerVersion = "3702081102";
+  </script>
+  <!-- This script adds the flutter initialization JS code -->
+
+  <script src="flutter.js" defer=""></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnGKzdkgpTP_YlNneSBZrq5fSFV5pj7c0"></script>
+  <link rel="stylesheet" type="text/css" href="splash/style.css">
+  <script src="splash/splash.js"></script>
+</head>
+<body style="overflow: hidden">  <picture id="splash">
+      <source srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x" media="(prefers-color-scheme: light)">
+      <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
+      <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
+  </picture>
+
+  <script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        }
+      }).then(function(engineInitializer) {
+        return engineInitializer.initializeEngine();
+      }).then(function(appRunner) {
+        return appRunner.runApp();
+      });
+    });
+  </script>
+
+
+</body></html>
