@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/SakerDakak/Salonek/main/icons/Icon-192.png" align="center" alt="Salonek" />
+ <img width="140px" src="https://github.com/SakerDakak/Salonek/blob/main/Images/logo.png?raw=true" align="center" alt="Salonek" />
  <h1 align="center">Salonek</h1>
  <p align="center" >This project is aimed at the Sultanate of Oman and offers the ability to book appointments at women's beauty salons or request hairdressers to come to your home. Additionally, each salon has an online store to sell beauty products
  <br>
