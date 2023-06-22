@@ -46,11 +46,26 @@ https://github.com/SakerDakak/Salonek/blob/main/Screenshort/user-2.jpg
  <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%206.jpg?raw=true" width="49%"></img> 
  
 ## Features:
-- Search using QR code
 - Support for multiple languages (Arabic - English)
-- Product management
 - Statistics
-- 
+- Booking by date and time with option to select number of people and services needed
+- Home services or salon services
+- In-app store to sell products
+- Reward points system
+- Search using QR code
+- Electronic wallet inside the app
+- Gift cards to fill the wallet
+- Three payment options (credit card , wallet, points)
+- In-app chat
+- Map showing salon locations
+- Coupon system
+- Offers and discounts
+- Reviews and ratings
+- Appointment reminders
+- Total points and money balance
+- Bookings reports for salons
+- Sending notifications from the control panel
+- Product management
 
 ## Dependencies
 - Flutter
