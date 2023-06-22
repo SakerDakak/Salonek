@@ -25,6 +25,12 @@ Download: https://github.com/SakerDakak/Salonek/releases/download/Salonek/Salone
 | user           | test@user.com       | 123456789 |
 
 ## Screenshort
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%201.jpg?raw=true" width="49%"></img> 
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%202.jpg?raw=true" width="49%"></img> 
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%204.jpg?raw=true" width="49%"></img> 
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%203.jpg?raw=true" width="49%"></img> 
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%205.jpg?raw=true" width="49%"></img> 
+ <img src="https://github.com/SakerDakak/Salonek/blob/main/Screenshort/Salonek%20-%206.jpg?raw=true" width="49%"></img> 
  
 ## Features:
 - Search using QR code
